@@ -1,7 +1,10 @@
 Trust - Event Logger
 =============
-
+Fork of [d4rken/trust](https://github.com/d4rken/trust)
+=============
 Available on [Google Play](https://play.google.com/store/apps/details?id=eu.thedarken.trust).
+
+[Pro Version](https://play.google.com/store/apps/details?id=eu.thedarken.trust.pro).
 
 A small event logging tool for Android.
 
